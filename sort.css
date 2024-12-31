@@ -1,0 +1,52 @@
+.parentdiv {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(17, 67, 99);
+    border: 3px solid;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 8px;
+
+}
+.innerDiv {
+    width: 4% !important; 
+    
+}
+
+
+.startbtn {
+    display: flex;
+    border: 2px solid;
+    
+    padding-top: 0px;
+    border-radius: 15px;
+    background-color: rgb(7, 7, 7);
+    margin: 12px;
+    position:r;
+    left: 600px;
+    font-size: 40px;
+    color:white;
+    cursor: pointer;
+    font-weight: 500;
+    
+}
+#head{
+    
+    text-align: center;
+    font-size: 60px;
+    color: rgb(13, 13, 13);
+    text-shadow: 12pc;
+    border: 3px solid;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 3px;
+    border-spacing: 12px;
+
+}
+.bod{
+    
+    background:linear-gradient(240deg, #1c21b2d1,#4753f5);
+}
